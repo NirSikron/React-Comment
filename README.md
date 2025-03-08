@@ -1,8 +1,15 @@
-# React + Vite
+React Comment Component
+Description:
+A React-based comment system that allows users to add, edit, and delete comments dynamically. This project showcases interactive UI elements and efficient state management for handling user input.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
 
-Currently, two official plugins are available:
+📝 Add Comments – Users can post new comments instantly.
+✏️ Edit Comments – Modify existing comments in real-time.
+❌ Delete Comments – Remove unwanted comments effortlessly.
+📱 Responsive Design – Works smoothly on various screen sizes.
+Technologies Used:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Frontend: React, HTML, CSS
+State Management: React Hooks
+🏆 Achievement: This project was successfully completed and received a perfect score of 100.
