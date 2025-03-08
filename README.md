@@ -5,8 +5,11 @@ A React-based comment system that allows users to add, edit, and delete comments
 Features:
 
 📝 Add Comments – Users can post new comments instantly.
+
 ✏️ Edit Comments – Modify existing comments in real-time.
+
 ❌ Delete Comments – Remove unwanted comments effortlessly.
+
 📱 Responsive Design – Works smoothly on various screen sizes.
 Technologies Used:
 
